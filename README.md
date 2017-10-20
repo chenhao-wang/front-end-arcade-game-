@@ -8,4 +8,4 @@ For detailed instructions on how to get started, check out this [guide](https://
 This is a classic arcade game with a slider to set speed.
 Use keyboard top, down, left, right to control the player.
 You'll gain 1 score if successfully go to river and lose all score once hit bugs.
-To run the game, download the full projects and click on index.html or visit my GitHub page (https://chenhaow.github.io/front-end-arcade-game-/) and enjoy the app" 
+To run the game, download the full projects and click on index.html or visit my GitHub page (https://chenhao-wang.github.io/front-end-arcade-game-/) and enjoy the app" 
